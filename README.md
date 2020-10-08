@@ -22,7 +22,7 @@ int getAmount() {
 		return amount;
 	}
 ##实验结果
-
+![运行结果](运行结果.png)
 
 
 ##实验感想
